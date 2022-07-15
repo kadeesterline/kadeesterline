@@ -1,5 +1,5 @@
-### Hi there 👋 
-I'm Kade, a web developer currently looking to break into tech. Below you'll find links to some of my other work as well as how you can reach out to me. Thanks for checking out my GitHub and don't hesitate to reach out with questions.
+![Imgur](https://i.imgur.com/EwxmepB.png)
+I'm a full stack web developer currently looking for my first role in tech. I'm very interested in getting my feet wet with open source contribution and I'm on the hunt for my first issue!
 
 
 
