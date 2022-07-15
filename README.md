@@ -7,6 +7,8 @@ I'm Kade, a web developer currently looking to break into tech. Below you'll fin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadeesterline)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kadeesterline&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 🔭 I’m currently working on a Node.js bot that will make tik toks for me
 
 - 🌱 I’m currently learning Data Structures and Algorithms
