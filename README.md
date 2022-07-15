@@ -1,11 +1,8 @@
-![Imgur](https://i.imgur.com/EwxmepB.png)
+![Imgur](https://i.imgur.com/LUahvG0.png)
 I'm a full stack web developer currently looking for my first role in tech. I'm very interested in getting my feet wet with open source contribution and I'm on the hunt for my first issue!
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadeesterline&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadeesterline)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadeesterline&show_icons=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadeesterline&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kadeesterline&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
